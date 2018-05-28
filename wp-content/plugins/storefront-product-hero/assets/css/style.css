@@ -1,0 +1,211 @@
+body,
+.site {
+  overflow-x: hidden; }
+
+.sprh-hero {
+  margin-bottom: 2.618em;
+  text-align: center;
+  background-position: center center;
+  position: relative;
+  margin-left: -1.618em;
+  margin-right: -1.618em; }
+  .sprh-hero .sprh-featured-image img {
+    margin: 0 auto 1.618em;
+    display: block; }
+  .sprh-hero .star-rating {
+    margin: 0 auto 1.618em; }
+  .sprh-hero p.more-details,
+  .sprh-hero p.add_to_cart_inline {
+    display: inline-block; }
+  .sprh-hero p.add_to_cart_inline {
+    border: 0 !important;
+    padding: 0 !important; }
+    .sprh-hero p.add_to_cart_inline .amount,
+    .sprh-hero p.add_to_cart_inline .woocommerce-price-suffix {
+      clip: rect(1px 1px 1px 1px);
+      /* IE6, IE7 */
+      clip: rect(1px, 1px, 1px, 1px);
+      position: absolute !important; }
+
+.sprh-hero .overlay {
+  padding: 2.618em; }
+
+.sprh-hero .col-full {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  background-color: transparent;
+  border: 0;
+  box-shadow: none; }
+
+.sprh-hero.fixed {
+  margin-left: auto;
+  margin-right: auto; }
+
+.sprh-hero h1 {
+  font-weight: 700; }
+
+.sprh-hero p:last-child {
+  margin-bottom: 0; }
+
+.page-template-template-homepage .site-main .sprh-hero:first-child {
+  margin-top: -4.236em; }
+
+@media screen and (min-width: 768px) {
+  .sprh-hero {
+    margin-bottom: 4.236em;
+    margin-left: -2.618em;
+    margin-right: -2.618em; }
+
+  .sprh-hero .overlay {
+    padding: 9.505em; }
+
+  .sprh-hero.left p,
+  .sprh-hero.left h1 {
+    margin-left: 0;
+    margin-right: 40%; }
+
+  .sprh-hero.right p,
+  .sprh-hero.right h1 {
+    margin-right: 0;
+    margin-left: 40%; }
+
+  .sprh-hero p,
+  .sprh-hero h1 {
+    margin-left: 10%;
+    margin-right: 10%; }
+
+  .sprh-hero.sprh-layout-left,
+  .sprh-hero.sprh-layout-right {
+    text-align: left; }
+    .sprh-hero.sprh-layout-left .col-full::after,
+    .sprh-hero.sprh-layout-right .col-full::after {
+      clear: both;
+      content: "";
+      display: table; }
+    .sprh-hero.sprh-layout-left p,
+    .sprh-hero.sprh-layout-left h1,
+    .sprh-hero.sprh-layout-left .sprh-featured-image img,
+    .sprh-hero.sprh-layout-left .star-rating,
+    .sprh-hero.sprh-layout-right p,
+    .sprh-hero.sprh-layout-right h1,
+    .sprh-hero.sprh-layout-right .sprh-featured-image img,
+    .sprh-hero.sprh-layout-right .star-rating {
+      margin-left: 0;
+      margin-right: 0; }
+
+  .sprh-hero.sprh-layout-left .sprh-featured-image {
+    width: 39.13043%;
+    float: right;
+    margin-right: 0; }
+  .sprh-hero.sprh-layout-left .sprh-hero-content-wrapper {
+    width: 56.52174%;
+    float: left;
+    margin-right: 4.34783%; }
+
+  .sprh-hero.sprh-layout-right .sprh-featured-image {
+    width: 39.13043%;
+    float: left;
+    margin-right: 4.34783%; }
+  .sprh-hero.sprh-layout-right .sprh-hero-content-wrapper {
+    width: 56.52174%;
+    float: right;
+    margin-right: 0; }
+
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-left.fixed .overlay, body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-left.full .overlay,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-right.fixed .overlay,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-right.full .overlay,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-center.fixed .overlay,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-center.full .overlay,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-left.fixed .overlay,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-left.full .overlay,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-right.fixed .overlay,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-right.full .overlay,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-center.fixed .overlay,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-center.full .overlay,
+  .textwidget .sprh-hero.sprh-layout-left.fixed .overlay,
+  .textwidget .sprh-hero.sprh-layout-left.full .overlay,
+  .textwidget .sprh-hero.sprh-layout-right.fixed .overlay,
+  .textwidget .sprh-hero.sprh-layout-right.full .overlay,
+  .textwidget .sprh-hero.sprh-layout-center.fixed .overlay,
+  .textwidget .sprh-hero.sprh-layout-center.full .overlay,
+  .page-description .sprh-hero.sprh-layout-left.fixed .overlay,
+  .page-description .sprh-hero.sprh-layout-left.full .overlay,
+  .page-description .sprh-hero.sprh-layout-right.fixed .overlay,
+  .page-description .sprh-hero.sprh-layout-right.full .overlay,
+  .page-description .sprh-hero.sprh-layout-center.fixed .overlay,
+  .page-description .sprh-hero.sprh-layout-center.full .overlay,
+  .term-description .sprh-hero.sprh-layout-left.fixed .overlay,
+  .term-description .sprh-hero.sprh-layout-left.full .overlay,
+  .term-description .sprh-hero.sprh-layout-right.fixed .overlay,
+  .term-description .sprh-hero.sprh-layout-right.full .overlay,
+  .term-description .sprh-hero.sprh-layout-center.fixed .overlay,
+  .term-description .sprh-hero.sprh-layout-center.full .overlay {
+    padding: 2.618em; }
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-left.full,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-right.full,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-center.full,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-left.full,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-right.full,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-center.full,
+  .textwidget .sprh-hero.sprh-layout-left.full,
+  .textwidget .sprh-hero.sprh-layout-right.full,
+  .textwidget .sprh-hero.sprh-layout-center.full,
+  .page-description .sprh-hero.sprh-layout-left.full,
+  .page-description .sprh-hero.sprh-layout-right.full,
+  .page-description .sprh-hero.sprh-layout-center.full,
+  .term-description .sprh-hero.sprh-layout-left.full,
+  .term-description .sprh-hero.sprh-layout-right.full,
+  .term-description .sprh-hero.sprh-layout-center.full {
+    margin-left: 0;
+    margin-right: 0; }
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-left p,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-left h1,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-right p,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-right h1,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-center p,
+  body:not(.page-template-template-fullwidth-php) .entry-content .sprh-hero.sprh-layout-center h1,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-left p,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-left h1,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-right p,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-right h1,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-center p,
+  body:not(.storefront-full-width-content) .entry-content .sprh-hero.sprh-layout-center h1,
+  .textwidget .sprh-hero.sprh-layout-left p,
+  .textwidget .sprh-hero.sprh-layout-left h1,
+  .textwidget .sprh-hero.sprh-layout-right p,
+  .textwidget .sprh-hero.sprh-layout-right h1,
+  .textwidget .sprh-hero.sprh-layout-center p,
+  .textwidget .sprh-hero.sprh-layout-center h1,
+  .page-description .sprh-hero.sprh-layout-left p,
+  .page-description .sprh-hero.sprh-layout-left h1,
+  .page-description .sprh-hero.sprh-layout-right p,
+  .page-description .sprh-hero.sprh-layout-right h1,
+  .page-description .sprh-hero.sprh-layout-center p,
+  .page-description .sprh-hero.sprh-layout-center h1,
+  .term-description .sprh-hero.sprh-layout-left p,
+  .term-description .sprh-hero.sprh-layout-left h1,
+  .term-description .sprh-hero.sprh-layout-right p,
+  .term-description .sprh-hero.sprh-layout-right h1,
+  .term-description .sprh-hero.sprh-layout-center p,
+  .term-description .sprh-hero.sprh-layout-center h1 {
+    margin-left: 0;
+    margin-right: 0; }
+
+  /**
+   * Storefront Designer integration
+   */
+  .sd-fixed-width .sprh-hero {
+    margin-left: 0;
+    margin-right: 0; }
+
+  .sd-fixed-width .sprh-hero.full {
+    margin-left: -5.4285em;
+    margin-right: -5.4285em; }
+
+  .page-template-template-homepage .sprh-hero.fixed .overlay {
+    padding: 4.236em; } }
+@media screen and (min-width: 1024px) {
+  .sprh-hero {
+    margin-left: -55em;
+    margin-right: -55em; } }

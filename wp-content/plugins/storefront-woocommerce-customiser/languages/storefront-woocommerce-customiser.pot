@@ -1,0 +1,467 @@
+# Copyright (C) 2015 Storefront WooCommerce Customiser
+# This file is distributed under the same license as the Storefront WooCommerce Customiser package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront WooCommerce Customiser 1.6.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-woocommerce-"
+"customiser\n"
+"POT-Creation-Date: 2015-06-03 14:12:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: storefront-woocommerce-customiser.php:141
+#: storefront-woocommerce-customiser.php:150
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:160
+msgid "Support"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:161
+msgid "Docs"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:183
+msgid ""
+"%sThanks for installing the Storefront WooCommerce Customiser installing. To "
+"get started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:311
+msgid "Search"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:312
+msgid "Toggle the display of the search form."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:327
+msgid "Cart link"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:328
+msgid "Toggle the display of the cart link / dropdown."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:339
+msgid "Shop"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:340
+msgid "Customise the look & feel of your product catalog"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:353
+msgid "Shop layout"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:354
+msgid "Applied to the shop page & product archives."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:373
+msgid "Product columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:395
+msgid "Products per page"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:436
+msgid "Product alignment"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:437
+msgid "Align product titles, prices, add to cart buttons, etc."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:454
+msgid "Display product results count"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:455
+msgid "Toggle the display of the product results count."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:467
+msgid "Display product sorting"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:468
+msgid "Toggle the display of the product sorting dropdown."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:480
+msgid "Display product image"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:481
+msgid "Toggle the display of the product images."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:493
+msgid "Display product title"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:494
+msgid "Toggle the display of the product titles."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:506
+msgid "Display sale flash"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:507
+msgid "Toggle the display of the sale flashes."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:519
+msgid "Display rating"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:520
+msgid "Toggle the display of the product ratings."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:532
+msgid "Display price"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:533
+msgid "Toggle the display of the product prices."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:545
+msgid "Display add to cart button"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:546
+msgid "Toggle the display of the add to cart buttons."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:566
+msgid "Infinite scroll"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:567
+msgid "Toggle the infinite scroll functionality."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:591
+msgid "Success message background color"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:603
+msgid "Success message text color"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:623
+msgid "Info message background color"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:635
+msgid "Info message text color"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:655
+msgid "Error message background color"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:667
+msgid "Error message text color"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:677
+msgid "Product Details"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:678
+msgid "Customise the look & feel of your product details pages"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:691
+msgid "Layout"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:692
+msgid "Applied to the product details page"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:711
+msgid "Gallery layout"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:731
+msgid "Display product tabs"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:732
+msgid "Toggle the display of the product tabs."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:747
+msgid "Display related products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:748
+msgid "Toggle the display of related products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:763
+msgid "Display product meta"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:764
+msgid "Toggle the display of product meta (category/sku)."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:775
+msgid "Homepage"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:777
+msgid "Customise the look & feel of the Storefront homepage template."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:789
+msgid "Display page content"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:790
+msgid "Toggle the display of the page content."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:813
+msgid "Display product categories"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:814
+msgid "Toggle the display of the product categories."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:825
+#: storefront-woocommerce-customiser.php:1364
+msgid "Product Categories"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:830
+msgid "Product category title"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:846
+msgid "Product category columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:869
+msgid "Product categories to display"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:900
+#: storefront-woocommerce-customiser.php:1012
+#: storefront-woocommerce-customiser.php:1124
+#: storefront-woocommerce-customiser.php:1236
+#: storefront-woocommerce-customiser.php:1348
+msgid "\"View more\" url"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:901
+msgid "Add a url to append a \"view more\" button beneath product categories."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:925
+msgid "Display recent products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:926
+msgid "Toggle the display of the recent products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:937
+#: storefront-woocommerce-customiser.php:1381
+msgid "Recent Products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:942
+msgid "Recent product title"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:958
+msgid "Recent product columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:981
+msgid "Recent products to display"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1013
+msgid "Add a url to append a \"view more\" button beneath recent products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1037
+msgid "Display featured products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1038
+msgid "Toggle the display of the featured products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1049
+#: storefront-woocommerce-customiser.php:1398
+msgid "Featured Products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1054
+msgid "Featured product title"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1070
+msgid "Featured product columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1093
+msgid "Featured products to display"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1125
+msgid "Add a url to append a \"view more\" button beneath featured products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1149
+msgid "Display top rated products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1150
+msgid "Toggle the display of the top rated products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1161
+#: storefront-woocommerce-customiser.php:1415
+msgid "Top rated Products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1166
+msgid "Top rated product title"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1182
+msgid "Top rated product columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1205
+msgid "Top rated products to display"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1237
+msgid "Add a url to append a \"view more\" button beneath top rated products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1261
+msgid "Display on sale products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1262
+msgid "Toggle the display of the on sale products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1273
+#: storefront-woocommerce-customiser.php:1432
+msgid "On sale Products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1278
+msgid "On sale product title"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1294
+msgid "On sale product columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1317
+msgid "On sale products to display"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1349
+msgid "Add a url to append a \"view more\" button beneath on sale products."
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1685
+msgid "View more product categories"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1697
+msgid "View more new products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1709
+msgid "View more featured products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1721
+msgid "View more popular products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1733
+msgid "View more products on sale"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1874
+msgid "Composite Products"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1875
+msgid "Customise the look & feel of Composite product pages"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1887
+msgid "Component options columns"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1888
+#: storefront-woocommerce-customiser.php:1911
+msgid "In effect when the %sProduct Thumbnails%s options style is active"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1910
+msgid "Component options per page"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1952
+msgid "Max columns in Summary"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1953
+msgid "In effect when using a %sMulti-page%s layout"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1978
+msgid "Toggle-box view"
+msgstr ""
+
+#: storefront-woocommerce-customiser.php:1979
+msgid "Apply the \"toggle-box\" Component view to the following layout(s)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Storefront WooCommerce Customiser"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/products/storefront-woocommerce-customiser/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds options to the customise the WooCommerce appearance and behaviour"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""

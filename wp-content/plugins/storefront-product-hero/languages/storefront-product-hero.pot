@@ -1,0 +1,186 @@
+# Copyright (C) 2015 Storefront Product Hero
+# This file is distributed under the same license as the Storefront Product Hero package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Product Hero 1.2.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-product-hero\n"
+"POT-Creation-Date: 2015-09-04 15:07:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-control-products.php:34
+msgid "Please select a product"
+msgstr ""
+
+#: storefront-product-hero.php:141 storefront-product-hero.php:150
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-product-hero.php:160
+msgid "Support"
+msgstr ""
+
+#: storefront-product-hero.php:161
+msgid "Docs"
+msgstr ""
+
+#: storefront-product-hero.php:184
+msgid ""
+"%sThanks for installing the Storefront Product Hero extension. To get "
+"started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+#: storefront-product-hero.php:262
+msgid "Product Hero"
+msgstr ""
+
+#: storefront-product-hero.php:263
+msgid ""
+"Customise the appearance and content of the hero component that is displayed "
+"on your homepage."
+msgstr ""
+
+#: storefront-product-hero.php:271
+msgid "Content"
+msgstr ""
+
+#: storefront-product-hero.php:277
+msgid "Background"
+msgstr ""
+
+#: storefront-product-hero.php:283
+msgid "Layout"
+msgstr ""
+
+#: storefront-product-hero.php:298
+msgid "Featured product"
+msgstr ""
+
+#: storefront-product-hero.php:299
+msgid "Select a product to be featured in the product hero"
+msgstr ""
+
+#: storefront-product-hero.php:315
+msgid "Content layout"
+msgstr ""
+
+#: storefront-product-hero.php:329
+msgid "Hero width"
+msgstr ""
+
+#: storefront-product-hero.php:350
+msgid "Full height"
+msgstr ""
+
+#: storefront-product-hero.php:351
+msgid "Set the hero component to full height"
+msgstr ""
+
+#: storefront-product-hero.php:367
+msgid "Product image"
+msgstr ""
+
+#: storefront-product-hero.php:368
+msgid "Display the product featured image"
+msgstr ""
+
+#: storefront-product-hero.php:384
+msgid "Product price"
+msgstr ""
+
+#: storefront-product-hero.php:385
+msgid "Display the product price"
+msgstr ""
+
+#: storefront-product-hero.php:401
+msgid "Product rating"
+msgstr ""
+
+#: storefront-product-hero.php:402
+msgid "Display the product rating"
+msgstr ""
+
+#: storefront-product-hero.php:438
+msgid "Specify the overlay background color"
+msgstr ""
+
+#: storefront-product-hero.php:457
+msgid "Overlay opacity"
+msgstr ""
+
+#: storefront-product-hero.php:486
+msgid "Background image"
+msgstr ""
+
+#: storefront-product-hero.php:500
+msgid "Background size"
+msgstr ""
+
+#: storefront-product-hero.php:529
+msgid "Parallax"
+msgstr ""
+
+#: storefront-product-hero.php:530
+msgid "Enable the parallax scrolling effect"
+msgstr ""
+
+#: storefront-product-hero.php:545
+msgid "Parallax scroll speed"
+msgstr ""
+
+#: storefront-product-hero.php:546
+msgid ""
+"The speed at which the parallax background scrolls relative to the window"
+msgstr ""
+
+#: storefront-product-hero.php:570
+msgid "Parallax offset"
+msgstr ""
+
+#: storefront-product-hero.php:571
+msgid "Offset the starting position of your background image"
+msgstr ""
+
+#: storefront-product-hero.php:596
+msgid "Heading text"
+msgstr ""
+
+#: storefront-product-hero.php:597
+msgid "(Leave blank to display product title)"
+msgstr ""
+
+#: storefront-product-hero.php:629
+msgid "Description text"
+msgstr ""
+
+#: storefront-product-hero.php:630
+msgid "(Leave blank to display product description)"
+msgstr ""
+
+#: storefront-product-hero.php:816
+msgid "More details &rarr;"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Storefront Product Hero"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/products/storefront-product-hero/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display styling parallax product hero components on your web pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""

@@ -1,0 +1,105 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-shipping-sapo-ips\n"
+"POT-Creation-Date: 2015-06-05 11:06:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/class-sapo-ips.php:123 classes/class-sapo-ips.php:174
+msgid "SAPO International Parcel Service"
+msgstr ""
+
+#: classes/class-sapo-ips.php:165
+msgid "Enable/Disable"
+msgstr ""
+
+#: classes/class-sapo-ips.php:167
+msgid "Enable SAPO International Parcel Service"
+msgstr ""
+
+#: classes/class-sapo-ips.php:171
+msgid "Method Title"
+msgstr ""
+
+#: classes/class-sapo-ips.php:173
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: classes/class-sapo-ips.php:177
+msgid "Calculation Type"
+msgstr ""
+
+#: classes/class-sapo-ips.php:182
+msgid "Per Order - charge shipping for the entire order as a whole"
+msgstr ""
+
+#: classes/class-sapo-ips.php:183
+msgid "Per Item - charge shipping for each item individually"
+msgstr ""
+
+#: classes/class-sapo-ips.php:187
+msgid "Handling Fee"
+msgstr ""
+
+#: classes/class-sapo-ips.php:189
+msgid "Fee including tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. Leave blank to disable."
+msgstr ""
+
+#: classes/class-sapo-ips.php:193
+msgid "Enable/Disable Tracking"
+msgstr ""
+
+#: classes/class-sapo-ips.php:195
+msgid "Add registration for tracking to be added to shipping costs. (R25.50)"
+msgstr ""
+
+#: classes/class-sapo-ips.php:199
+msgid "Enable/Disable Small Packets"
+msgstr ""
+
+#: classes/class-sapo-ips.php:201
+msgid "Enable small packets rates for items under 2kg"
+msgstr ""
+
+#: classes/class-sapo-ips.php:205
+msgid "Shipping Types"
+msgstr ""
+
+#: classes/class-sapo-ips.php:213
+msgid "Open Exchange Rates APP ID"
+msgstr ""
+
+#: classes/class-sapo-ips.php:215
+msgid "Your Open Exchange Rates APP ID for retrieving latest exchange rates. See http://openexchangerates.org"
+msgstr ""
+
+#: classes/class-sapo-ips.php:219
+msgid "Enable/Disable Currency Conversion"
+msgstr ""
+
+#: classes/class-sapo-ips.php:221
+msgid "Enable currency conversion when shop not using ZAR."
+msgstr ""
+
+#: classes/class-sapo-ips.php:232
+msgid "SAPO International Parcel Service is enabled, but the <a href=\"%s\">currency</a> is not ZAR; Please enable currency conversion to convert to shop currency."
+msgstr ""
+
+#: classes/class-sapo-ips.php:236
+msgid "SAPO International Parcel Service is enabled, but the <a href=\"%s\">base country/region</a> is not South Africa."
+msgstr ""
+
+#: classes/class-sapo-ips.php:240
+msgid "SAPO International Parcel Service is enabled, but the <a href=\"%s\">weight unit</a> is not set to g / kg"
+msgstr ""
+
+#: classes/class-sapo-ips.php:431
+msgid "Failed to update exchange rates from openexchangerates.org"
+msgstr ""

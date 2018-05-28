@@ -1,0 +1,278 @@
+# Copyright (C) 2015 WooThemes
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Mix and Match 1.0.5\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/woocommerce-mix-and-match-products\n"
+"POT-Creation-Date: 2015-10-13 16:21:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+
+#: includes/admin/class-mix-and-match-admin.php:88
+msgid "Mix & Match product"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:103
+msgid "Non-Bundled Shipping"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:104
+msgid ""
+"If your Mix-and-Match product consists of items that are assembled or "
+"packaged together, leave the box un-checked and just define the shipping "
+"properties of the product below. If, however, the chosen items are shipped "
+"individually, their shipping properties must be retained. In this case, the "
+"box must be checked."
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:111
+msgid "Per-Item Pricing"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:112
+msgid ""
+"When enabled, your Mix-and-Match product will be priced per-item, based on "
+"standalone item prices and tax rates."
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:125
+msgid "Mix & Match"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:145
+msgid "Container Size"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:147
+msgid ""
+"The number of products to be sold together in a Container. Use 0 to not "
+"enforce a container limit."
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:150
+msgid "Mix & Match Products"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:177
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:177
+msgid "Products which can be mixed and matched to fill the product Container."
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:270
+msgid ""
+"Mix & Match supports simple products and product variations with all "
+"attributes defined. Other product types and partially-defined variations "
+"cannot be added to the Mix & Match container."
+msgstr ""
+
+#: includes/admin/class-mix-and-match-admin.php:282
+msgid "Please select at least one product to use for this Mix & Match product."
+msgstr ""
+
+#: includes/class-wc-mnm-cart.php:239
+msgid ""
+"The configuration you have selected cannot be added to the cart since "
+"&quot;%s&quot; cannot be purchased."
+msgstr ""
+
+#: includes/class-wc-mnm-cart.php:265
+msgid ""
+"You have not selected any items. Please choose at least 1 item for "
+"&quot;%s&quot;"
+msgstr ""
+
+#: includes/class-wc-mnm-cart.php:268
+msgid "You have selected too many items. Please choose %d items for &quot;%s&quot;"
+msgstr ""
+
+#: includes/class-wc-mnm-cart.php:270
+msgid ""
+"You have not selected enough items. Please choose %d items for "
+"&quot;%s&quot;"
+msgstr ""
+
+#: includes/class-wc-mnm-cart.php:788
+msgid "Subtotal"
+msgstr ""
+
+#: includes/class-wc-mnm-display.php:281
+#: includes/class-wc-product-mix-and-match.php:715
+msgid "Free!"
+msgstr ""
+
+#: includes/class-wc-mnm-display.php:282
+msgid "You have selected %s items. "
+msgstr ""
+
+#: includes/class-wc-mnm-display.php:283
+msgid "You have selected %s item. "
+msgstr ""
+
+#: includes/class-wc-mnm-display.php:284
+msgid "%vPlease select %s items to continue&hellip;"
+msgstr ""
+
+#: includes/class-wc-mnm-display.php:285
+msgid "Please select at least 1 item to continue&hellip;"
+msgstr ""
+
+#: includes/class-wc-mnm-helpers.php:67
+msgid "Any"
+msgstr ""
+
+#: includes/class-wc-mnm-order.php:95
+msgid "Item subtotal"
+msgstr ""
+
+#: includes/class-wc-mnm-order.php:181
+msgid "%1$s, %2$s mixed"
+msgstr ""
+
+#: includes/class-wc-mnm-order.php:262
+msgid "Part of"
+msgstr ""
+
+#: includes/class-wc-mnm-order.php:272
+msgid "Container size"
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:172
+msgid ""
+"The configuration you have selected cannot be added to the cart &mdash; "
+"only 1 &quot;%s&quot; may be purchased."
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:181
+msgid ""
+"&quot;%s&quot; cannot be purchased as configured since &quot;%s&quot; is "
+"out of stock."
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:183
+msgid ""
+"The configuration you have selected cannot be added to the cart &mdash; "
+"&quot;%s&quot; is out of stock."
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:190
+msgid ""
+"Your &quot;%s&quot; cannot be purchased as configured since there is not "
+"enough stock of &quot;%s&quot; &mdash; we have %s in stock and you are "
+"trying to add %s to your cart."
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:193
+msgid ""
+"The configuration you have selected cannot be added to the cart since there "
+"is not enough stock of &quot;%s&quot; &mdash; we have %s in stock and you "
+"already have %s in your cart."
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:195
+msgid ""
+"The configuration you have selected cannot be added to the cart since there "
+"is not enough stock of &quot;%s&quot; &mdash; we have %s in stock and you "
+"are trying to add %s to your cart."
+msgstr ""
+
+#: includes/class-wc-mnm-stock-manager.php:206
+msgid "View Cart"
+msgstr ""
+
+#: includes/class-wc-product-mix-and-match.php:866
+msgid "Insufficient stock"
+msgstr ""
+
+#: includes/class-wc-product-mix-and-match.php:871
+msgid "Available on backorder"
+msgstr ""
+
+#: includes/class-wc-product-mix-and-match.php:946
+msgid "Read More"
+msgstr ""
+
+#: includes/class-wc-product-mix-and-match.php:949
+msgid "Select options"
+msgstr ""
+
+#: includes/compatibility/class-wc-wl-compatibility.php:39
+#: includes/compatibility/class-wc-wl-compatibility.php:41
+msgid "&times; %d"
+msgstr ""
+
+#: includes/compatibility/class-wc-wl-compatibility.php:54
+#: includes/compatibility/class-wc-wl-compatibility.php:72
+msgid "*"
+msgstr ""
+
+#: includes/compatibility/class-wc-wl-compatibility.php:54
+msgid "Accurate pricing info available in cart."
+msgstr ""
+
+#: templates/single-product/add-to-cart/mnm.php:31
+msgid "Product"
+msgstr ""
+
+#: templates/single-product/add-to-cart/mnm.php:32
+msgid "Quantity"
+msgstr ""
+
+#: templates/single-product/add-to-cart/mnm.php:66
+msgid "Please select %s items to continue&hellip;"
+msgstr ""
+
+#: templates/single-product/add-to-cart/mnm.php:66
+msgid "Please select some items to continue&hellip;"
+msgstr ""
+
+#: woocommerce-mix-and-match-products.php:74
+#: woocommerce-mix-and-match-products.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: woocommerce-mix-and-match-products.php:153
+msgid "Mix and Match"
+msgstr ""
+
+#: woocommerce-mix-and-match-products.php:221
+msgid ""
+"WooCommerce Mix & Match requires at least WooCommerce %s in order to "
+"function. Please upgrade WooCommerce."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Mix and Match"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/woocommerce-mix-and-match-products/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allow customers to choose products in any combination to fill a "
+"\"container\" of a specific size."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""
+
+#: includes/class-wc-product-mix-and-match.php:707
+#: includes/class-wc-product-mix-and-match.php:720
+msgctxt "Price range: from"
+msgid "%1$s%2$s"
+msgstr ""
